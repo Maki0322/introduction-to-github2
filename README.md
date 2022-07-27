@@ -1,12 +1,3 @@
-# H1 Header
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
